@@ -13,6 +13,7 @@ In this project. I was selected tmdb movie dataset in which i have analyze the f
 4. I will analyze the years wise average_vote_count. Profit trends of Drema movies.
 5. Average Runtime of Drema Movies.
 
+In this Repository Data_Science_Blog_post.ipynb is having jupyter notebook python code.  
 
 2. File Description 
 tmdb movie dataset in this data i have 10866 row and 21 attribute which is help me to understand the data trend in movies.
