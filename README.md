@@ -18,11 +18,11 @@ In this project. I was selected tmdb movie dataset in which i have analyze the f
 tmdb movie dataset in this data i have 10866 row and 21 attribute which is help me to understand the data trend in movies.
 
 3. list of the python libraries used in the project
- pandas 
- numpy 
- matplotlib
- seaborn
- %matplotlib inline
+ * pandas 
+ * numpy 
+ * matplotlib
+ * seaborn
+ * %matplotlib inline
 
 4.Summary 
 I have analysis all the point and get usefull result.
