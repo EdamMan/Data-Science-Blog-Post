@@ -18,3 +18,5 @@ tmdb movie dataset in this data i have 10866 row and 21 attribute which is help 
 
 3. Results 
 Data Science blog post link  : https://medium.com/@edam/investigate-a-imdb-movie-dataset-c61e87c127be?source=friends_link&sk=628bd3257f2a53c1da347fc08058096a
+
+Github link : https://github.com/EdamMan/Data-Science-Blog-Post
